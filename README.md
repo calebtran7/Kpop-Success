@@ -5,7 +5,7 @@ Source: 뜨레모아
 
 By: Katherine Huynh (Project Lead), Disha Beeraladinni, Sumedha Goyal, Tommy Tan, Caleb Tran
 
-##Introduction
+## Introduction
 	Recently, it has become almost impossible to open up TikTok without encountering some type of K-Pop related post. Whether it be JYP’s Groove Back, Seventeen’s Fighting, or Le Sserafim’s Antifragile, users are almost guaranteed to be exposed to K-Pop. 
 	However, with each K-Pop group’s seemingly instantaneous climb to success, one cannot help but wonder why there are certain groups that are able to succeed after two songs while other, more experienced groups are unable to. Perhaps, these K-Pop group’s success is based on some secret mixture of visuals, dancing, and singing. Or, perhaps it’s just simply luck. 
 	To this end, our group set out to investigate what variables could constitute the success of K-Pop groups. 
@@ -14,7 +14,7 @@ By: Katherine Huynh (Project Lead), Disha Beeraladinni, Sumedha Goyal, Tommy Tan
 Our team utilized and cleaned 3 datasets. First, we used Spotify’s API to gather data about the top 10 groups on Spotify (BTS, Blackpink, Twice, Stray Kids, Seventeen, Tomorrow by Together, (G)-I-DLE, Red Velvet, and Enhypen) and New Jeans from February 2023; we decided to include New Jeans as well because of their recent rise in popularity. From Spotify, we collected a variety of data on every song under each band’s discography such as the danceability, energy, duration, tempo, etc. However, one problem we encountered was that there are many groups that released a song multiple times in repackage albums or as a digital single. To account for this factor, we eliminated as many duplicates as possible. Additionally, we also utilized Kworb’s collection of the top 300 most viewed K-Pop songs on Youtube from February 2023. Lastly, we utilized censuses on r/kpop by various users, such as u/alleybetwixt and u/hubwub. 
 
 
-##Exploratory Data Analysis 
+## Exploratory Data Analysis 
 
 Figure 1 
  
@@ -51,7 +51,7 @@ Figure 5
 
 These two visualizations show the occurrences of a certain tempo in k-pop songs, separated by gender. The tempo of each song is typically in the decimals, so each tempo was rounded to the nearest whole number. The selected songs are all the songs released by the top ten K-Pop groups in Spotify. While both boy and girl groups have a variety of songs spanning from a tempo of 80 to 200 beats per minute, it seems that the majority of the songs in girl groups have a lower tempo than 140 beats per minute and in guy groups there appears to be a more even spread of tempos. Another observation is that the top tempo with the most occurrences in both girl and boy groups seems to be around 120 beats. 
 
-##Conclusions
+## Conclusions
 
 The Kpop craze evidently remains on the rise and there are no signs of its popularity diminishing soon. Finding the “recipe” to a successful Kpop group is far from easy, but our analysis suggests that variables such as high energy, high danceability, a speedy tempo and steady time signature of 4/4 are all associated with the most popular tracks. Diverse sexualities in the fanbase as well as an emphasis on visuals for girl groups and an emphasis of song quality for boy groups are all attributes that uniquely characterize the Kpop genre. While we only explored specific factors of the success of K-Pop groups, we hope our findings provided further insight into why certain K-Pop groups seemed to rise to fame while others seemed to fade into the background. 
 
