@@ -15,6 +15,7 @@ Our team utilized and cleaned 3 datasets. First, we used Spotify’s API to gath
 ## Exploratory Data Analysis 
 
 Figure 1 
+
  ![image7](https://user-images.githubusercontent.com/121086856/229259325-9e8f7816-6102-4a8a-93b7-a6519a6d1010.png)
 
 
@@ -29,6 +30,7 @@ We were able to arrive at this conclusion based on how, if K-Pop groups’ succe
 
 
 Figure 2 
+
 ![image4](https://user-images.githubusercontent.com/121086856/229259342-24de00c3-4bae-420b-b566-45ea205c901f.png)
 
 
@@ -38,6 +40,7 @@ Although the graph shows a big increase in the number of LGBTQ+ fans in the Kpop
 
 
 Figure 3 
+
 ![image1](https://user-images.githubusercontent.com/121086856/229259355-00f92aab-e05a-440e-a4fa-4d08585fd1c1.png)
 
 
@@ -45,6 +48,7 @@ We wish to compare the average track statistics amongst the top 11 K-Pop groups 
 
 
 Figure 4
+
 ![image2](https://user-images.githubusercontent.com/121086856/229259364-31db6de5-7455-49f3-80c7-56a7d5bef875.png)
 ![image9](https://user-images.githubusercontent.com/121086856/229259365-442fb3e8-22a1-42d0-b795-45ad85742ff2.png)
 
@@ -52,6 +56,7 @@ Figure 4
 The pair of pie charts highlights the distribution of time signatures across the top Kpop songs and the top songs in general (not restricted to KPop). Regarding the Kpop data, we included all the tracks of the 10 Kpop groups with the most Spotify monthly listeners. For the data of songs not restricted to Kpop, we included tracks from the Spotify database that held a popularity rating of greater than 40. It can be observed that the overwhelming majority of the top Kpop tracks possess a time signature of 4 beats per measure (96.3%). This time signature significantly overpowers other less popular time signatures such as 1 beat per bar (.259%), 3 beats per bar (3.05%), and 5 beats per bar (.389%). While 4 beats per bar is also the most popular time signature for the top non Kpop songs, the skew is less extreme. This trend may be explained by how the 4/4 time signature provides a steady rhythm that is often perceived as “catchy” and is easy to bop your head to. With Kpop’s generally upbeat energy, it makes sense why many of the most successful tracks are in a 4/4 time signature. 
 
 Figure 5
+
 ![image3](https://user-images.githubusercontent.com/121086856/229259385-2f71f576-3e67-40f9-b9f2-03fff460a1c5.png)
 ![image5](https://user-images.githubusercontent.com/121086856/229259392-4d9d176e-6353-44e8-90a3-b3294048227a.png)
 
