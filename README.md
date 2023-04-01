@@ -6,6 +6,7 @@ Source: 뜨레모아
 By: Katherine Huynh (Project Lead), Disha Beeraladinni, Sumedha Goyal, Tommy Tan, Caleb Tran
 
 ## Introduction
+
 	Recently, it has become almost impossible to open up TikTok without encountering some type of K-Pop related post. Whether it be JYP’s Groove Back, Seventeen’s Fighting, or Le Sserafim’s Antifragile, users are almost guaranteed to be exposed to K-Pop. 
 	However, with each K-Pop group’s seemingly instantaneous climb to success, one cannot help but wonder why there are certain groups that are able to succeed after two songs while other, more experienced groups are unable to. Perhaps, these K-Pop group’s success is based on some secret mixture of visuals, dancing, and singing. Or, perhaps it’s just simply luck. 
 	To this end, our group set out to investigate what variables could constitute the success of K-Pop groups. 
